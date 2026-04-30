@@ -8,12 +8,7 @@ function App() {
 
     return (
         <>
-            <h1>Jogo da forca</h1>
             <Jogo />
-            <Teste titulo="Alo">
-                <p>Add haha</p>
-                <h3>Mais um</h3>
-            </Teste>
         </>
     );
 }

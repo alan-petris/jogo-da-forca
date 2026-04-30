@@ -5,7 +5,7 @@ type filho = {
     children?: React.ReactNode;
 };
 
-export default function Teste({ children, titulo }: filho) {
+export default function Teste({ titulo, children }: filho) {
     return (
         <>
             <h2>Foi adicionado via children logo abaixo:</h2>
