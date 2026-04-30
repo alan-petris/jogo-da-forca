@@ -1,0 +1,28 @@
+.card {
+    border: 2px black solid;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#erradas {
+    color: red;
+}
+
+.perdeu {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.resetar {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(8, 104, 74);
+    color: white;
+    font-weight: 700;
+    margin: auto;
+}
