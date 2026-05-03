@@ -5,6 +5,7 @@ export default function Categorias() {
                 <option value="car">Carro</option>
                 <option value="fruit">Fruta</option>
                 <option value="object">Objetos</option>
+                <option value="movies">Filmes</option>
             </select>
         </>
     );
