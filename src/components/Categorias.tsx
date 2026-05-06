@@ -7,6 +7,7 @@ export default function Categorias() {
                 <option value="object">Objetos</option>
                 <option value="movies">Filmes</option>
                 <option value="database">Banco de dados</option>
+                <option value="sql">Sql</option>
             </select>
         </>
     );
